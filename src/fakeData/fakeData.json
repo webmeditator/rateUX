@@ -1,0 +1,26 @@
+/*
+/////////////////////////////////////////////////////////////////////////////////////
+//////////////////             Mock Data to render a report   ///////////////////////
+//////////////////////////////////////////////////////////////////////////////////////
+*/
+
+
+'Report': [
+  {
+    'Name': 'CompanyA',
+    'Id': '1',
+    'Type': 'UX',
+    'Content': {
+      'Categories': {
+        'Reliability': {
+          'low': 'Unreliable',
+          'high': 'Trustworthy reliable'
+        },
+        'Usage': {
+          'low': 'Complicated',
+          'hight': 'Easy'
+        }
+      }
+    }
+  }
+]
